@@ -1,5 +1,5 @@
-/*
-    # remind 230926
+/***
+    ** remind 230926
     - 조건문 : if, if~else, switch~case~default
     - 반복문 : for~, while~, do~while(조건)~
     - Scanner 클래스 사용
