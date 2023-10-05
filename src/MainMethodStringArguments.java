@@ -16,6 +16,6 @@ public class MainMethodStringArguments {
 
         int result = num1 + num2;
         System.out.println(num1 + " + " + num2 + " = " + result);
-        System.out.println("입력한 문자열: "+str3);
+        System.out.println("입력한 문자열: " + str3);
     }
 }
