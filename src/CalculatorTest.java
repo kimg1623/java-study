@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CalculatorExample {
+public class CalculatorTest {
     public static void main(String[] args) {
 	/***
 	* [요구명세]
